@@ -1,13 +1,19 @@
+---
+title: Custom Fan Ducts
+badges:
+    - Official
+uid: EVA / Addons / Fans
+type: addon
+contributors: 
+    - pkucmus
+repo_url: https://github.com/EVA-3D/addon-fan-ducts
+cad_url: https://cad.onshape.com/documents/cdbbab45bc478a93284f0aa0/w/8c39e85696457ae4cc840a32/e/c3255622beac52df201a0be0
+---
 # Custom Fan Ducts
 
 This addon is all about custom layer cooling that your setup may require.
 
 If you have a fan duct you'd like contribute to EVA please let us know.
-
-{{ eva_link("fan_ducts") }}
-
-{{ onshape_link("fan_ducts") }}
-
 
 ## Horns Duct Variants
 
