@@ -87,3 +87,9 @@ The Horns Duct v2 variant for E3D Volcano. It takes the standard EVA air output 
 In 1.3.0 a [MK3 RHD Fan Duct Rev. C](https://www.thingiverse.com/thing:3249344) remix was added, it does not have a Volcano variant but is narrower than Horns Duct which maybe important for an IDEX assembly
 
 [Download :octicons-download-16:](stls/RHD - RHD_for_EVA_fan_duct.stl)
+
+
+## Links
+
+{{ download_button }}
+{{ cad_link }}
